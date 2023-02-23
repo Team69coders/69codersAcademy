@@ -1,3 +1,6 @@
+![logo](https://github.com/Team69coders/69codersAcademy/blob/main/69codersAcademy.png)
+<hr>
+
 # Welcome to 69codersAcademy 👋
 [69coders](https://github.com/Team69coders) is an Open Source Community building an [69codersAcademy](https://github.com/Team69coders/69codersAcademy) to help new programmers learn most of the concepts of the programming via memes.
 
